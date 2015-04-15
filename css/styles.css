@@ -1,0 +1,22 @@
+.show-card {
+  background: #fff;
+  border-radius: 4em;
+  border: 0.25em solid #1fa756;
+  color: #1fa756;
+  font-size: 18px;
+  left: 50%;
+  line-height: 1.5;
+  padding: 1em 1em 1em 4em;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  outline: none;
+}
+ 
+.show-card img {
+  border-radius: 50%;
+  left: 0.3em;
+  position: absolute;
+  top: 0.25em;
+  width: 3em;
+}
